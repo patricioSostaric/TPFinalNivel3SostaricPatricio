@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.34031.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForms", "WebForms\WebForms.csproj", "{EDD153EB-9968-41A2-8CCA-7E2EEDE6D6B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "..\..\Trabajopractico_2\Tp_Catalogo\Datos\Datos.csproj", "{1E2DD10F-D3F0-4890-AD0C-206E7D237884}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EDD153EB-9968-41A2-8CCA-7E2EEDE6D6B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDD153EB-9968-41A2-8CCA-7E2EEDE6D6B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDD153EB-9968-41A2-8CCA-7E2EEDE6D6B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E2DD10F-D3F0-4890-AD0C-206E7D237884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2DD10F-D3F0-4890-AD0C-206E7D237884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2DD10F-D3F0-4890-AD0C-206E7D237884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2DD10F-D3F0-4890-AD0C-206E7D237884}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
